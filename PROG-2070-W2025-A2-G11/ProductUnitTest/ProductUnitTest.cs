@@ -1,6 +1,6 @@
 using PROG_2070_W2025_A2_G11;
 
-namespace ProductUnitTest
+namespace ProductnUnitTests
 {
     public class ProductTests
     {
@@ -11,22 +11,22 @@ namespace ProductUnitTest
             _product = new Product(5, "Test Product", 10.00m, 10);
         }
 
-        [TestCase]
-        //[TestCase(5)]
-        //[TestCase(100)]
-        //[TestCase(50000)]
-        //[TestCase(50001)]
-        public void ProductIdIsInRange_Test()
+        [TestCase(4, 4)]
+        [TestCase(5, 5)]
+        [TestCase(100, 100)]
+        [TestCase(50000, 50000)]
+        [TestCase(50001, 50001)]
+        public void ProductIdIsInRange_Test(int prodID, int expected)
         {
             // Arrange
-            //var prodID = 5;
+            _product.ProdID = prodID;
 
             // Act
-            var prodId = _product.ProdID;
+            var actualProdId = _product.ProdID;
 
             // Assert
 
-            Assert.That(prodId, Is.EqualTo(5));
+            Assert.That(actualProdId, Is.EqualTo(prodID));
 
         }
     }
