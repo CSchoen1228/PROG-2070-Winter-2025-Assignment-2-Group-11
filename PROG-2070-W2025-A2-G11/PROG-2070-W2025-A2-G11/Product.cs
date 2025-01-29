@@ -16,7 +16,7 @@ namespace PROG_2070_W2025_A2_G11
         public Product(int ProdID, string ProdName, decimal ItemPrice, int StockAmount)
         {
             this.ProdID = ProdID;
-            this.ProdName= ProdName;
+            this.ProdName = ProdName;
             this.ItemPrice = ItemPrice;
             this.StockAmount = StockAmount;
         }
