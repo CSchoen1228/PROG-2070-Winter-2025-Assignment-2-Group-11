@@ -1,0 +1,7 @@
+D:\Desktop\Courses\Term-4\PROG2070 Programming Software QA\PROG-2070-Winter-2025-Assignment-2-Group-11\PROG-2070-W2025-A2-G11\PROG-2070-W2025-A2-G11\bin\Debug\PROG-2070-W2025-A2-G11.exe.config
+D:\Desktop\Courses\Term-4\PROG2070 Programming Software QA\PROG-2070-Winter-2025-Assignment-2-Group-11\PROG-2070-W2025-A2-G11\PROG-2070-W2025-A2-G11\bin\Debug\PROG-2070-W2025-A2-G11.exe
+D:\Desktop\Courses\Term-4\PROG2070 Programming Software QA\PROG-2070-Winter-2025-Assignment-2-Group-11\PROG-2070-W2025-A2-G11\PROG-2070-W2025-A2-G11\bin\Debug\PROG-2070-W2025-A2-G11.pdb
+D:\Desktop\Courses\Term-4\PROG2070 Programming Software QA\PROG-2070-Winter-2025-Assignment-2-Group-11\PROG-2070-W2025-A2-G11\PROG-2070-W2025-A2-G11\obj\Debug\PROG-2070-W2025-A2-G11.csproj.AssemblyReference.cache
+D:\Desktop\Courses\Term-4\PROG2070 Programming Software QA\PROG-2070-Winter-2025-Assignment-2-Group-11\PROG-2070-W2025-A2-G11\PROG-2070-W2025-A2-G11\obj\Debug\PROG-2070-W2025-A2-G11.csproj.CoreCompileInputs.cache
+D:\Desktop\Courses\Term-4\PROG2070 Programming Software QA\PROG-2070-Winter-2025-Assignment-2-Group-11\PROG-2070-W2025-A2-G11\PROG-2070-W2025-A2-G11\obj\Debug\PROG-2070-W2025-A2-G11.exe
+D:\Desktop\Courses\Term-4\PROG2070 Programming Software QA\PROG-2070-Winter-2025-Assignment-2-Group-11\PROG-2070-W2025-A2-G11\PROG-2070-W2025-A2-G11\obj\Debug\PROG-2070-W2025-A2-G11.pdb
