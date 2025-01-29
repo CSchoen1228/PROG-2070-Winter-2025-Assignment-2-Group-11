@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Desktop\\Courses\\Term-4\\PROG2070 Programming Software QA\\PROG-2070-Winter-2025-Assignment-2-Group-11\\PROG-2070-W2025-A2-G11\\ProductUnitTest\\ProductnUnitTests.csproj": {}
+    "C:\\Users\\shock\\Documents\\Class\\.4thTerm\\QA PROG2070\\Assignment 2\\REPO\\PROG-2070-W2025-A2-G11\\ProductUnitTest\\ProductnUnitTests.csproj": {}
   },
   "projects": {
-    "D:\\Desktop\\Courses\\Term-4\\PROG2070 Programming Software QA\\PROG-2070-Winter-2025-Assignment-2-Group-11\\PROG-2070-W2025-A2-G11\\ProductUnitTest\\ProductnUnitTests.csproj": {
+    "C:\\Users\\shock\\Documents\\Class\\.4thTerm\\QA PROG2070\\Assignment 2\\REPO\\PROG-2070-W2025-A2-G11\\ProductUnitTest\\ProductnUnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desktop\\Courses\\Term-4\\PROG2070 Programming Software QA\\PROG-2070-Winter-2025-Assignment-2-Group-11\\PROG-2070-W2025-A2-G11\\ProductUnitTest\\ProductnUnitTests.csproj",
+        "projectUniqueName": "C:\\Users\\shock\\Documents\\Class\\.4thTerm\\QA PROG2070\\Assignment 2\\REPO\\PROG-2070-W2025-A2-G11\\ProductUnitTest\\ProductnUnitTests.csproj",
         "projectName": "ProductnUnitTests",
-        "projectPath": "D:\\Desktop\\Courses\\Term-4\\PROG2070 Programming Software QA\\PROG-2070-Winter-2025-Assignment-2-Group-11\\PROG-2070-W2025-A2-G11\\ProductUnitTest\\ProductnUnitTests.csproj",
-        "packagesPath": "C:\\Users\\Farrukh\\.nuget\\packages\\",
-        "outputPath": "D:\\Desktop\\Courses\\Term-4\\PROG2070 Programming Software QA\\PROG-2070-Winter-2025-Assignment-2-Group-11\\PROG-2070-W2025-A2-G11\\ProductUnitTest\\obj\\",
+        "projectPath": "C:\\Users\\shock\\Documents\\Class\\.4thTerm\\QA PROG2070\\Assignment 2\\REPO\\PROG-2070-W2025-A2-G11\\ProductUnitTest\\ProductnUnitTests.csproj",
+        "packagesPath": "C:\\Users\\shock\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shock\\Documents\\Class\\.4thTerm\\QA PROG2070\\Assignment 2\\REPO\\PROG-2070-W2025-A2-G11\\ProductUnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Farrukh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\shock\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -25,6 +25,7 @@
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -32,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Desktop\\Courses\\Term-4\\PROG2070 Programming Software QA\\PROG-2070-Winter-2025-Assignment-2-Group-11\\PROG-2070-W2025-A2-G11\\PROG-2070-W2025-A2-G11\\PROG-2070-W2025-A2-G11.csproj": {
-                "projectPath": "D:\\Desktop\\Courses\\Term-4\\PROG2070 Programming Software QA\\PROG-2070-Winter-2025-Assignment-2-Group-11\\PROG-2070-W2025-A2-G11\\PROG-2070-W2025-A2-G11\\PROG-2070-W2025-A2-G11.csproj"
+              "C:\\Users\\shock\\Documents\\Class\\.4thTerm\\QA PROG2070\\Assignment 2\\REPO\\PROG-2070-W2025-A2-G11\\PROG-2070-W2025-A2-G11\\PROG-2070-W2025-A2-G11.csproj": {
+                "projectPath": "C:\\Users\\shock\\Documents\\Class\\.4thTerm\\QA PROG2070\\Assignment 2\\REPO\\PROG-2070-W2025-A2-G11\\PROG-2070-W2025-A2-G11\\PROG-2070-W2025-A2-G11.csproj"
               }
             }
           }
@@ -95,20 +96,20 @@
         }
       }
     },
-    "D:\\Desktop\\Courses\\Term-4\\PROG2070 Programming Software QA\\PROG-2070-Winter-2025-Assignment-2-Group-11\\PROG-2070-W2025-A2-G11\\PROG-2070-W2025-A2-G11\\PROG-2070-W2025-A2-G11.csproj": {
+    "C:\\Users\\shock\\Documents\\Class\\.4thTerm\\QA PROG2070\\Assignment 2\\REPO\\PROG-2070-W2025-A2-G11\\PROG-2070-W2025-A2-G11\\PROG-2070-W2025-A2-G11.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desktop\\Courses\\Term-4\\PROG2070 Programming Software QA\\PROG-2070-Winter-2025-Assignment-2-Group-11\\PROG-2070-W2025-A2-G11\\PROG-2070-W2025-A2-G11\\PROG-2070-W2025-A2-G11.csproj",
+        "projectUniqueName": "C:\\Users\\shock\\Documents\\Class\\.4thTerm\\QA PROG2070\\Assignment 2\\REPO\\PROG-2070-W2025-A2-G11\\PROG-2070-W2025-A2-G11\\PROG-2070-W2025-A2-G11.csproj",
         "projectName": "PROG-2070-W2025-A2-G11",
-        "projectPath": "D:\\Desktop\\Courses\\Term-4\\PROG2070 Programming Software QA\\PROG-2070-Winter-2025-Assignment-2-Group-11\\PROG-2070-W2025-A2-G11\\PROG-2070-W2025-A2-G11\\PROG-2070-W2025-A2-G11.csproj",
-        "packagesPath": "C:\\Users\\Farrukh\\.nuget\\packages\\",
-        "outputPath": "D:\\Desktop\\Courses\\Term-4\\PROG2070 Programming Software QA\\PROG-2070-Winter-2025-Assignment-2-Group-11\\PROG-2070-W2025-A2-G11\\PROG-2070-W2025-A2-G11\\obj\\",
+        "projectPath": "C:\\Users\\shock\\Documents\\Class\\.4thTerm\\QA PROG2070\\Assignment 2\\REPO\\PROG-2070-W2025-A2-G11\\PROG-2070-W2025-A2-G11\\PROG-2070-W2025-A2-G11.csproj",
+        "packagesPath": "C:\\Users\\shock\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shock\\Documents\\Class\\.4thTerm\\QA PROG2070\\Assignment 2\\REPO\\PROG-2070-W2025-A2-G11\\PROG-2070-W2025-A2-G11\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Farrukh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\shock\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -116,6 +117,7 @@
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
