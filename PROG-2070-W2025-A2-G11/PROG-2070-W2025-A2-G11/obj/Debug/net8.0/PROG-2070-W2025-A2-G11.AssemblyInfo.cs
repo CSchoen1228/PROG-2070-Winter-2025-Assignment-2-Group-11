@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PROG-2070-W2025-A2-G11")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e1365da57ac885dbe0b9549b23eda193d9e002a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ae5bf85f1ea777d9444dab963dc4036697e599c")]
 [assembly: System.Reflection.AssemblyProductAttribute("PROG-2070-W2025-A2-G11")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PROG-2070-W2025-A2-G11")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

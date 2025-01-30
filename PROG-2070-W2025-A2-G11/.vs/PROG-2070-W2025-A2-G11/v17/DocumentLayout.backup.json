@@ -50,9 +50,9 @@
               "Title": "ProductUnitTest.cs",
               "DocumentMoniker": "D:\\Desktop\\Courses\\Term-4\\PROG2070 Programming Software QA\\PROG-2070-Winter-2025-Assignment-2-Group-11\\PROG-2070-W2025-A2-G11\\ProductUnitTest\\ProductUnitTest.cs",
               "RelativeDocumentMoniker": "ProductUnitTest\\ProductUnitTest.cs",
-              "ToolTip": "D:\\Desktop\\Courses\\Term-4\\PROG2070 Programming Software QA\\PROG-2070-Winter-2025-Assignment-2-Group-11\\PROG-2070-W2025-A2-G11\\ProductUnitTest\\ProductUnitTest.cs*",
-              "RelativeToolTip": "ProductUnitTest\\ProductUnitTest.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "ToolTip": "D:\\Desktop\\Courses\\Term-4\\PROG2070 Programming Software QA\\PROG-2070-Winter-2025-Assignment-2-Group-11\\PROG-2070-W2025-A2-G11\\ProductUnitTest\\ProductUnitTest.cs",
+              "RelativeToolTip": "ProductUnitTest\\ProductUnitTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-29T22:37:09.151Z",
               "EditorCaption": ""
@@ -65,7 +65,7 @@
               "RelativeDocumentMoniker": "PROG-2070-W2025-A2-G11\\Product.cs",
               "ToolTip": "D:\\Desktop\\Courses\\Term-4\\PROG2070 Programming Software QA\\PROG-2070-Winter-2025-Assignment-2-Group-11\\PROG-2070-W2025-A2-G11\\PROG-2070-W2025-A2-G11\\Product.cs",
               "RelativeToolTip": "PROG-2070-W2025-A2-G11\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-29T22:31:45.308Z",
               "EditorCaption": ""
@@ -80,8 +80,7 @@
               "RelativeToolTip": "PROG-2070-W2025-A2-G11\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:31:45.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:31:45.31Z"
             }
           ]
         }

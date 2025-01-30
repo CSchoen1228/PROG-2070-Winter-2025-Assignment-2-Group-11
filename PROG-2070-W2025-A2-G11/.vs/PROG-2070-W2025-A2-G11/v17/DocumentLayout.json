@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Desktop\\Courses\\Term-4\\PROG2070 Programming Software QA\\PROG-2070-Winter-2025-Assignment-2-Group-11\\PROG-2070-W2025-A2-G11\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1E40CEAD-A3B6-49E8-AD00-CE44852BE58F}|PROG-2070-W2025-A2-G11\\PROG-2070-W2025-A2-G11.csproj|d:\\desktop\\courses\\term-4\\prog2070 programming software qa\\prog-2070-winter-2025-assignment-2-group-11\\prog-2070-w2025-a2-g11\\prog-2070-w2025-a2-g11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E40CEAD-A3B6-49E8-AD00-CE44852BE58F}|PROG-2070-W2025-A2-G11\\PROG-2070-W2025-A2-G11.csproj|solutionrelative:prog-2070-w2025-a2-g11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1E40CEAD-A3B6-49E8-AD00-CE44852BE58F}|PROG-2070-W2025-A2-G11\\PROG-2070-W2025-A2-G11.csproj|d:\\desktop\\courses\\term-4\\prog2070 programming software qa\\prog-2070-winter-2025-assignment-2-group-11\\prog-2070-w2025-a2-g11\\prog-2070-w2025-a2-g11\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E40CEAD-A3B6-49E8-AD00-CE44852BE58F}|PROG-2070-W2025-A2-G11\\PROG-2070-W2025-A2-G11.csproj|solutionrelative:prog-2070-w2025-a2-g11\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD128EB1-054B-444B-BDDC-7F4395FAB3A2}|ProductUnitTest\\ProductnUnitTests.csproj|d:\\desktop\\courses\\term-4\\prog2070 programming software qa\\prog-2070-winter-2025-assignment-2-group-11\\prog-2070-w2025-a2-g11\\productunittest\\productunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD128EB1-054B-444B-BDDC-7F4395FAB3A2}|ProductUnitTest\\ProductnUnitTests.csproj|solutionrelative:productunittest\\productunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E40CEAD-A3B6-49E8-AD00-CE44852BE58F}|PROG-2070-W2025-A2-G11\\PROG-2070-W2025-A2-G11.csproj|d:\\desktop\\courses\\term-4\\prog2070 programming software qa\\prog-2070-winter-2025-assignment-2-group-11\\prog-2070-w2025-a2-g11\\prog-2070-w2025-a2-g11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E40CEAD-A3B6-49E8-AD00-CE44852BE58F}|PROG-2070-W2025-A2-G11\\PROG-2070-W2025-A2-G11.csproj|solutionrelative:prog-2070-w2025-a2-g11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,33 +46,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProductUnitTest.cs",
               "DocumentMoniker": "D:\\Desktop\\Courses\\Term-4\\PROG2070 Programming Software QA\\PROG-2070-Winter-2025-Assignment-2-Group-11\\PROG-2070-W2025-A2-G11\\ProductUnitTest\\ProductUnitTest.cs",
               "RelativeDocumentMoniker": "ProductUnitTest\\ProductUnitTest.cs",
               "ToolTip": "D:\\Desktop\\Courses\\Term-4\\PROG2070 Programming Software QA\\PROG-2070-Winter-2025-Assignment-2-Group-11\\PROG-2070-W2025-A2-G11\\ProductUnitTest\\ProductUnitTest.cs",
               "RelativeToolTip": "ProductUnitTest\\ProductUnitTest.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAuwGMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-29T22:37:09.151Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Desktop\\Courses\\Term-4\\PROG2070 Programming Software QA\\PROG-2070-Winter-2025-Assignment-2-Group-11\\PROG-2070-W2025-A2-G11\\PROG-2070-W2025-A2-G11\\Product.cs",
               "RelativeDocumentMoniker": "PROG-2070-W2025-A2-G11\\Product.cs",
               "ToolTip": "D:\\Desktop\\Courses\\Term-4\\PROG2070 Programming Software QA\\PROG-2070-Winter-2025-Assignment-2-Group-11\\PROG-2070-W2025-A2-G11\\PROG-2070-W2025-A2-G11\\Product.cs",
               "RelativeToolTip": "PROG-2070-W2025-A2-G11\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-29T22:31:45.308Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Desktop\\Courses\\Term-4\\PROG2070 Programming Software QA\\PROG-2070-Winter-2025-Assignment-2-Group-11\\PROG-2070-W2025-A2-G11\\PROG-2070-W2025-A2-G11\\Program.cs",
               "RelativeDocumentMoniker": "PROG-2070-W2025-A2-G11\\Program.cs",
