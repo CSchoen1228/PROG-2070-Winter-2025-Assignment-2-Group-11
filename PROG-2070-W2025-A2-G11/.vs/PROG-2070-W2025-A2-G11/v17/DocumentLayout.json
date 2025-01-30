@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shock\\Documents\\Class\\.4thTerm\\QA PROG2070\\Assignment 2\\REPO\\PROG-2070-W2025-A2-G11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD128EB1-054B-444B-BDDC-7F4395FAB3A2}|ProductUnitTest\\ProductnUnitTests.csproj|c:\\users\\shock\\documents\\class\\.4thterm\\qa prog2070\\assignment 2\\repo\\prog-2070-w2025-a2-g11\\productunittest\\productunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD128EB1-054B-444B-BDDC-7F4395FAB3A2}|ProductUnitTest\\ProductnUnitTests.csproj|solutionrelative:productunittest\\productunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E40CEAD-A3B6-49E8-AD00-CE44852BE58F}|PROG-2070-W2025-A2-G11\\PROG-2070-W2025-A2-G11.csproj|c:\\users\\shock\\documents\\class\\.4thterm\\qa prog2070\\assignment 2\\repo\\prog-2070-w2025-a2-g11\\prog-2070-w2025-a2-g11\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E40CEAD-A3B6-49E8-AD00-CE44852BE58F}|PROG-2070-W2025-A2-G11\\PROG-2070-W2025-A2-G11.csproj|solutionrelative:prog-2070-w2025-a2-g11\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\shock\\Documents\\Class\\.4thTerm\\QA PROG2070\\Assignment 2\\REPO\\PROG-2070-W2025-A2-G11\\ProductUnitTest\\ProductUnitTest.cs",
+              "RelativeDocumentMoniker": "ProductUnitTest\\ProductUnitTest.cs",
+              "ToolTip": "C:\\Users\\shock\\Documents\\Class\\.4thTerm\\QA PROG2070\\Assignment 2\\REPO\\PROG-2070-W2025-A2-G11\\ProductUnitTest\\ProductUnitTest.cs",
+              "RelativeToolTip": "ProductUnitTest\\ProductUnitTest.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:31:45.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\shock\\Documents\\Class\\.4thTerm\\QA PROG2070\\Assignment 2\\REPO\\PROG-2070-W2025-A2-G11\\PROG-2070-W2025-A2-G11\\Product.cs",
+              "RelativeDocumentMoniker": "PROG-2070-W2025-A2-G11\\Product.cs",
+              "ToolTip": "C:\\Users\\shock\\Documents\\Class\\.4thTerm\\QA PROG2070\\Assignment 2\\REPO\\PROG-2070-W2025-A2-G11\\PROG-2070-W2025-A2-G11\\Product.cs",
+              "RelativeToolTip": "PROG-2070-W2025-A2-G11\\Product.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:19:34.609Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
