@@ -1,11 +1,20 @@
-﻿
-namespace PROG_2070_W2025_A2_G11
+﻿namespace PROG_2070_W2025_A2_G11
 {
+    /// <summary>
+    /// Product class to store product information
+    /// </summary>
     public class Product
     {
-
+        //private fields
         private int _prodId;
-        public int ProdID { get=>_prodId;
+        private string _prodName;
+        private double _itemPrice;
+        private int _stockAmount;
+
+        //public properties
+        public int ProdId 
+        { 
+            get=>_prodId;
             set {
                 if (value < 5 || value > 50000)
                 {
@@ -15,20 +24,22 @@ namespace PROG_2070_W2025_A2_G11
             }
         }
 
-        private string _prodName;
-        public string? ProdName { get => _prodName; 
+        public string? ProdName 
+        { 
+            get => _prodName; 
             set
             {
                 if (String.IsNullOrEmpty(value?.Trim()))
                 {
-                    throw new Exception(message: "Name can not be empty");
+                    throw new Exception(message: "Name cannot be empty");
                 }
                 _prodName = value;
             } 
         }
 
-        private decimal _itemPrice;
-        public decimal ItemPrice { get =>_itemPrice;
+        public double ItemPrice 
+        { 
+            get =>_itemPrice;
             set
             {
                 if (value < 5 || value > 5000)
@@ -38,9 +49,10 @@ namespace PROG_2070_W2025_A2_G11
                 _itemPrice = value;
             }
         }
-
-        private int _stockAmount;
-        public int StockAmount { get=>_stockAmount;
+       
+        public int StockAmount 
+        { 
+            get=>_stockAmount;
             set
             {
                 if (value < 5 || value > 500000)
@@ -50,30 +62,32 @@ namespace PROG_2070_W2025_A2_G11
                 _stockAmount = value;
             }
         }
-        
 
-        public Product(int ProdID, string ProdName, decimal ItemPrice, int StockAmount)
+        //constructor
+        public Product(int prodId, string prodName, double itemPrice, int stockAmount)
         {
-            this.ProdID = ProdID;
-            this.ProdName = ProdName;
-            this.ItemPrice = ItemPrice;
-            this.StockAmount = StockAmount;
+            this.ProdId = prodId;
+            this.ProdName = prodName;
+            this.ItemPrice = itemPrice;
+            this.StockAmount = stockAmount;
         }
 
+        //Method to increase stock amount
         public void Increase(int amount)
         {
             if (amount <= 0)
             {
-                throw new Exception(message: "amount can not be less than 1");
+                throw new Exception(message: "Amount cannot be less than 1");
             }
             StockAmount += amount;
         }
 
+        //Method to decrease stock amount
         public void Decrease(int amount)
         {
             if (amount <= 0)
             {
-                throw new Exception(message: "amount can not be less than 1");
+                throw new Exception(message: "Amount cannot be less than 1");
             }
             StockAmount -= amount;
         }

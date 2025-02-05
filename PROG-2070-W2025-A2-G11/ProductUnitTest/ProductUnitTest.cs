@@ -2,40 +2,44 @@ using PROG_2070_W2025_A2_G11;
 
 namespace ProductnUnitTests
 {
+    /// <summary>
+    /// Test class for Product class
+    /// </summary>
     public class ProductTests
     {
 
-        private Product _product { get; set; } = null;
+        //Private field for Product object that will be tested
+        private Product? _product { get; set; }
+        
         [SetUp]
         public void Setup()
         {
-            _product = new Product(5, "Test Product", 100, 50);
+            _product = new Product(5, "Product 1", 100, 50);
         }
 
         // Test cases for Product class's ProdId field, the accepted value range is 5 to 50000
         // Test cases test for values below and above the accepted range
         [TestCase(4)]
         [TestCase(50001)]
-        public void ProdIdThrowsOutOfRange(int prodId)
+        public void ProdIdThrowsOutOfRange_Test(int prodId)
         {
             //Arrange, Act and Assert gets complicated with Assert.Throws
-
-            Assert.Throws<Exception>(()=>_product.ProdID=prodId);
+            Assert.Throws<Exception>(()=>_product.ProdId=prodId);
             
         }
 
-        //Test Case for prod id is in range
+        //Test Case for ProdId is in range
         [Test]
-        public void ProdIdInRange()
+        public void ProdIdIsInRange_Test()
         {
             //Arrange
             int prodId = 7;
 
             //Act
-            _product.ProdID = prodId;
+            _product.ProdId = prodId;
 
             //Assert
-            Assert.That(_product.ProdID, Is.InRange(5,50000));
+            Assert.That(_product.ProdId, Is.InRange(5,50000));
         }
 
 
@@ -43,16 +47,14 @@ namespace ProductnUnitTests
         // Test cases test for values belowand above the accepted range
         [TestCase(4)]
         [TestCase(5001)]
-        public void ItemPriceThrowsOutOfRange(int itemPrice)
+        public void ItemPriceThrowsOutOfRange_Test(int itemPrice)
         {
             //Arrange, Act and Assert gets complicated with Assert.Throws
-
             Assert.Throws<Exception>(() => _product.ItemPrice = itemPrice);
-
         }
 
         [Test]
-        public void ItemPriceInRange()
+        public void ItemPriceIsInRange_Test()
         {
             //Arrange
             int price = 7;
@@ -68,15 +70,14 @@ namespace ProductnUnitTests
         // Test cases test for values below, within and above the accepted range
         [TestCase(4)]
         [TestCase(500001)]
-        public void StockAmountThrowsOutOfRange(int stockAmount)
+        public void StockAmountThrowsOutOfRange_Test(int stockAmount)
         {
             //Arrange, Act and Assert gets complicated with Assert.Throws
-
             Assert.Throws<Exception>(() => _product.StockAmount = stockAmount);
         }
 
         [Test]
-        public void StockAmountInRange()
+        public void StockAmountIsInRange_Test()
         {
             //Arrange
             int stock = 7;
@@ -90,7 +91,7 @@ namespace ProductnUnitTests
         
         //Test case for Stock increase properly increasing
         [Test]
-        public void StockIncreaseNormalFunction()
+        public void StockIncreaseIsValid_Test()
         {
             //Arrange
             int start = 200;
@@ -105,7 +106,7 @@ namespace ProductnUnitTests
         }
 
         [Test]
-        public void StockIncreaseNegativeValue()
+        public void StockIncreaseNegativeValue_Test()
         {
             //Arrange
             int start = 200;
@@ -117,7 +118,7 @@ namespace ProductnUnitTests
         }
 
         [Test]
-        public void StockIncreaseOutOfRange()
+        public void StockIncreaseOutOfRange_Test()
         {
             //Arrange
             int start = 200;
@@ -130,7 +131,7 @@ namespace ProductnUnitTests
 
         //Test case for Stock decrease properly decreasing
         [Test]
-        public void StockDecreaseNormalFunction()
+        public void StockDecreaseIsValid_Test()
         {
             //Arrange
             int start = 200;
@@ -145,7 +146,7 @@ namespace ProductnUnitTests
         }
 
         [Test]
-        public void StockDecreaseNegativeValue()
+        public void StockDecreaseNegativeValue_Test()
         {
             //Arrange
             int start = 200;
@@ -157,7 +158,7 @@ namespace ProductnUnitTests
         }
 
         [Test]
-        public void StockDecreaseOutOfRange()
+        public void StockDecreaseOutOfRange_Test()
         {
             //Arrange
             int start = 200;
@@ -169,10 +170,10 @@ namespace ProductnUnitTests
         }
 
         [Test]
-        public void ProdNameValid()
+        public void ProdNameIsValid_Test()
         {
             //Arrange
-            string name = "hi";
+            string name = "Product 1";
 
             //Act
             _product.ProdName = name;
@@ -182,7 +183,7 @@ namespace ProductnUnitTests
         }
 
         [Test]
-        public void ProdNameEmpty()
+        public void ProdNameIsEmpty_Test()
         {
             //Arrange
             string name = string.Empty;
@@ -192,7 +193,7 @@ namespace ProductnUnitTests
         }
 
         [Test]
-        public void ProdNameIsNull()
+        public void ProdNameIsNull_Test()
         {
             //Arrange
             string? name = null;
